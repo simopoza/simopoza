@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![mannahri's 42 stats](https://badge.mediaplus.ma/darkblue/mannahri)](https://github.com/oakoudad/badge42)
 <!--
 **simopoza/simopoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
